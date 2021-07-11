@@ -8,5 +8,9 @@ We are tasked to create earthquake plot based on USGS data. The plots shall incl
 ![png](earthquakes.png)
 
 ## Project structure
+```
 |__ Leaflet-Step1
 |__ Leaflet-Step2
+|__ earthquakes.png
+|__ README.md
+```
